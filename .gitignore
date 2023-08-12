@@ -1,0 +1,1052 @@
+vendor
+node_modules
+*.iml
+npm-debug.log
+chromedriver.exe
+pasta/sessao/chrome_debug.log
+pasta/sessao/DevToolsActivePort
+pasta/sessao/First Run
+pasta/sessao/first_party_sets.db
+pasta/sessao/first_party_sets.db-journal
+pasta/sessao/Last Browser
+pasta/sessao/Last Version
+pasta/sessao/Local State
+pasta/sessao/Variations
+pasta/sessao/AutofillStates/2020.11.2.164946/AD
+pasta/sessao/AutofillStates/2020.11.2.164946/AE
+pasta/sessao/AutofillStates/2020.11.2.164946/AF
+pasta/sessao/AutofillStates/2020.11.2.164946/AG
+pasta/sessao/AutofillStates/2020.11.2.164946/AL
+pasta/sessao/AutofillStates/2020.11.2.164946/AM
+pasta/sessao/AutofillStates/2020.11.2.164946/AO
+pasta/sessao/AutofillStates/2020.11.2.164946/AR
+pasta/sessao/AutofillStates/2020.11.2.164946/AS
+pasta/sessao/AutofillStates/2020.11.2.164946/AT
+pasta/sessao/AutofillStates/2020.11.2.164946/AU
+pasta/sessao/AutofillStates/2020.11.2.164946/AX
+pasta/sessao/AutofillStates/2020.11.2.164946/AZ
+pasta/sessao/AutofillStates/2020.11.2.164946/BA
+pasta/sessao/AutofillStates/2020.11.2.164946/BB
+pasta/sessao/AutofillStates/2020.11.2.164946/BD
+pasta/sessao/AutofillStates/2020.11.2.164946/BE
+pasta/sessao/AutofillStates/2020.11.2.164946/BF
+pasta/sessao/AutofillStates/2020.11.2.164946/BG
+pasta/sessao/AutofillStates/2020.11.2.164946/BH
+pasta/sessao/AutofillStates/2020.11.2.164946/BI
+pasta/sessao/AutofillStates/2020.11.2.164946/BJ
+pasta/sessao/AutofillStates/2020.11.2.164946/BM
+pasta/sessao/AutofillStates/2020.11.2.164946/BN
+pasta/sessao/AutofillStates/2020.11.2.164946/BO
+pasta/sessao/AutofillStates/2020.11.2.164946/BQ
+pasta/sessao/AutofillStates/2020.11.2.164946/BR
+pasta/sessao/AutofillStates/2020.11.2.164946/BS
+pasta/sessao/AutofillStates/2020.11.2.164946/BT
+pasta/sessao/AutofillStates/2020.11.2.164946/BW
+pasta/sessao/AutofillStates/2020.11.2.164946/BY
+pasta/sessao/AutofillStates/2020.11.2.164946/BZ
+pasta/sessao/AutofillStates/2020.11.2.164946/CA
+pasta/sessao/AutofillStates/2020.11.2.164946/CD
+pasta/sessao/AutofillStates/2020.11.2.164946/CF
+pasta/sessao/AutofillStates/2020.11.2.164946/CG
+pasta/sessao/AutofillStates/2020.11.2.164946/CH
+pasta/sessao/AutofillStates/2020.11.2.164946/CI
+pasta/sessao/AutofillStates/2020.11.2.164946/CL
+pasta/sessao/AutofillStates/2020.11.2.164946/CM
+pasta/sessao/AutofillStates/2020.11.2.164946/CN
+pasta/sessao/AutofillStates/2020.11.2.164946/CO
+pasta/sessao/AutofillStates/2020.11.2.164946/CR
+pasta/sessao/AutofillStates/2020.11.2.164946/CU
+pasta/sessao/AutofillStates/2020.11.2.164946/CV
+pasta/sessao/AutofillStates/2020.11.2.164946/CW
+pasta/sessao/AutofillStates/2020.11.2.164946/CY
+pasta/sessao/AutofillStates/2020.11.2.164946/CZ
+pasta/sessao/AutofillStates/2020.11.2.164946/DE
+pasta/sessao/AutofillStates/2020.11.2.164946/DJ
+pasta/sessao/AutofillStates/2020.11.2.164946/DK
+pasta/sessao/AutofillStates/2020.11.2.164946/DM
+pasta/sessao/AutofillStates/2020.11.2.164946/DO
+pasta/sessao/AutofillStates/2020.11.2.164946/DZ
+pasta/sessao/AutofillStates/2020.11.2.164946/EC
+pasta/sessao/AutofillStates/2020.11.2.164946/EE
+pasta/sessao/AutofillStates/2020.11.2.164946/EG
+pasta/sessao/AutofillStates/2020.11.2.164946/EH
+pasta/sessao/AutofillStates/2020.11.2.164946/ER
+pasta/sessao/AutofillStates/2020.11.2.164946/ES
+pasta/sessao/AutofillStates/2020.11.2.164946/ET
+pasta/sessao/AutofillStates/2020.11.2.164946/FI
+pasta/sessao/AutofillStates/2020.11.2.164946/FJ
+pasta/sessao/AutofillStates/2020.11.2.164946/FM
+pasta/sessao/AutofillStates/2020.11.2.164946/FO
+pasta/sessao/AutofillStates/2020.11.2.164946/FR
+pasta/sessao/AutofillStates/2020.11.2.164946/GA
+pasta/sessao/AutofillStates/2020.11.2.164946/GB
+pasta/sessao/AutofillStates/2020.11.2.164946/GD
+pasta/sessao/AutofillStates/2020.11.2.164946/GE
+pasta/sessao/AutofillStates/2020.11.2.164946/GF
+pasta/sessao/AutofillStates/2020.11.2.164946/GG
+pasta/sessao/AutofillStates/2020.11.2.164946/GH
+pasta/sessao/AutofillStates/2020.11.2.164946/GL
+pasta/sessao/AutofillStates/2020.11.2.164946/GM
+pasta/sessao/AutofillStates/2020.11.2.164946/GN
+pasta/sessao/AutofillStates/2020.11.2.164946/GP
+pasta/sessao/AutofillStates/2020.11.2.164946/GQ
+pasta/sessao/AutofillStates/2020.11.2.164946/GR
+pasta/sessao/AutofillStates/2020.11.2.164946/GT
+pasta/sessao/AutofillStates/2020.11.2.164946/GW
+pasta/sessao/AutofillStates/2020.11.2.164946/GY
+pasta/sessao/AutofillStates/2020.11.2.164946/HK
+pasta/sessao/AutofillStates/2020.11.2.164946/HN
+pasta/sessao/AutofillStates/2020.11.2.164946/HR
+pasta/sessao/AutofillStates/2020.11.2.164946/HT
+pasta/sessao/AutofillStates/2020.11.2.164946/HU
+pasta/sessao/AutofillStates/2020.11.2.164946/ID
+pasta/sessao/AutofillStates/2020.11.2.164946/IE
+pasta/sessao/AutofillStates/2020.11.2.164946/IL
+pasta/sessao/AutofillStates/2020.11.2.164946/IM
+pasta/sessao/AutofillStates/2020.11.2.164946/IN
+pasta/sessao/AutofillStates/2020.11.2.164946/IQ
+pasta/sessao/AutofillStates/2020.11.2.164946/IR
+pasta/sessao/AutofillStates/2020.11.2.164946/IS
+pasta/sessao/AutofillStates/2020.11.2.164946/IT
+pasta/sessao/AutofillStates/2020.11.2.164946/JE
+pasta/sessao/AutofillStates/2020.11.2.164946/JM
+pasta/sessao/AutofillStates/2020.11.2.164946/JO
+pasta/sessao/AutofillStates/2020.11.2.164946/JP
+pasta/sessao/AutofillStates/2020.11.2.164946/KE
+pasta/sessao/AutofillStates/2020.11.2.164946/KG
+pasta/sessao/AutofillStates/2020.11.2.164946/KH
+pasta/sessao/AutofillStates/2020.11.2.164946/KI
+pasta/sessao/AutofillStates/2020.11.2.164946/KM
+pasta/sessao/AutofillStates/2020.11.2.164946/KN
+pasta/sessao/AutofillStates/2020.11.2.164946/KP
+pasta/sessao/AutofillStates/2020.11.2.164946/KR
+pasta/sessao/AutofillStates/2020.11.2.164946/KW
+pasta/sessao/AutofillStates/2020.11.2.164946/KY
+pasta/sessao/AutofillStates/2020.11.2.164946/KZ
+pasta/sessao/AutofillStates/2020.11.2.164946/LA
+pasta/sessao/AutofillStates/2020.11.2.164946/LB
+pasta/sessao/AutofillStates/2020.11.2.164946/LC
+pasta/sessao/AutofillStates/2020.11.2.164946/LI
+pasta/sessao/AutofillStates/2020.11.2.164946/LK
+pasta/sessao/AutofillStates/2020.11.2.164946/LR
+pasta/sessao/AutofillStates/2020.11.2.164946/LS
+pasta/sessao/AutofillStates/2020.11.2.164946/LT
+pasta/sessao/AutofillStates/2020.11.2.164946/LU
+pasta/sessao/AutofillStates/2020.11.2.164946/LV
+pasta/sessao/AutofillStates/2020.11.2.164946/LY
+pasta/sessao/AutofillStates/2020.11.2.164946/MA
+pasta/sessao/AutofillStates/2020.11.2.164946/manifest.fingerprint
+pasta/sessao/AutofillStates/2020.11.2.164946/manifest.json
+pasta/sessao/AutofillStates/2020.11.2.164946/MD
+pasta/sessao/AutofillStates/2020.11.2.164946/ME
+pasta/sessao/AutofillStates/2020.11.2.164946/MF
+pasta/sessao/AutofillStates/2020.11.2.164946/MG
+pasta/sessao/AutofillStates/2020.11.2.164946/MH
+pasta/sessao/AutofillStates/2020.11.2.164946/MK
+pasta/sessao/AutofillStates/2020.11.2.164946/ML
+pasta/sessao/AutofillStates/2020.11.2.164946/MM
+pasta/sessao/AutofillStates/2020.11.2.164946/MN
+pasta/sessao/AutofillStates/2020.11.2.164946/MP
+pasta/sessao/AutofillStates/2020.11.2.164946/MQ
+pasta/sessao/AutofillStates/2020.11.2.164946/MR
+pasta/sessao/AutofillStates/2020.11.2.164946/MS
+pasta/sessao/AutofillStates/2020.11.2.164946/MU
+pasta/sessao/AutofillStates/2020.11.2.164946/MV
+pasta/sessao/AutofillStates/2020.11.2.164946/MW
+pasta/sessao/AutofillStates/2020.11.2.164946/MX
+pasta/sessao/AutofillStates/2020.11.2.164946/MY
+pasta/sessao/AutofillStates/2020.11.2.164946/MZ
+pasta/sessao/AutofillStates/2020.11.2.164946/NA
+pasta/sessao/AutofillStates/2020.11.2.164946/NC
+pasta/sessao/AutofillStates/2020.11.2.164946/NE
+pasta/sessao/AutofillStates/2020.11.2.164946/NG
+pasta/sessao/AutofillStates/2020.11.2.164946/NI
+pasta/sessao/AutofillStates/2020.11.2.164946/NL
+pasta/sessao/AutofillStates/2020.11.2.164946/NO
+pasta/sessao/AutofillStates/2020.11.2.164946/NP
+pasta/sessao/AutofillStates/2020.11.2.164946/NR
+pasta/sessao/AutofillStates/2020.11.2.164946/NU
+pasta/sessao/AutofillStates/2020.11.2.164946/NZ
+pasta/sessao/AutofillStates/2020.11.2.164946/OM
+pasta/sessao/AutofillStates/2020.11.2.164946/PA
+pasta/sessao/AutofillStates/2020.11.2.164946/PE
+pasta/sessao/AutofillStates/2020.11.2.164946/PF
+pasta/sessao/AutofillStates/2020.11.2.164946/PG
+pasta/sessao/AutofillStates/2020.11.2.164946/PH
+pasta/sessao/AutofillStates/2020.11.2.164946/PK
+pasta/sessao/AutofillStates/2020.11.2.164946/PL
+pasta/sessao/AutofillStates/2020.11.2.164946/PM
+pasta/sessao/AutofillStates/2020.11.2.164946/PR
+pasta/sessao/AutofillStates/2020.11.2.164946/PS
+pasta/sessao/AutofillStates/2020.11.2.164946/PT
+pasta/sessao/AutofillStates/2020.11.2.164946/PW
+pasta/sessao/AutofillStates/2020.11.2.164946/PY
+pasta/sessao/AutofillStates/2020.11.2.164946/QA
+pasta/sessao/AutofillStates/2020.11.2.164946/RE
+pasta/sessao/AutofillStates/2020.11.2.164946/RO
+pasta/sessao/AutofillStates/2020.11.2.164946/RS
+pasta/sessao/AutofillStates/2020.11.2.164946/RU
+pasta/sessao/AutofillStates/2020.11.2.164946/RW
+pasta/sessao/AutofillStates/2020.11.2.164946/SA
+pasta/sessao/AutofillStates/2020.11.2.164946/SB
+pasta/sessao/AutofillStates/2020.11.2.164946/SC
+pasta/sessao/AutofillStates/2020.11.2.164946/SD
+pasta/sessao/AutofillStates/2020.11.2.164946/SE
+pasta/sessao/AutofillStates/2020.11.2.164946/SH
+pasta/sessao/AutofillStates/2020.11.2.164946/SI
+pasta/sessao/AutofillStates/2020.11.2.164946/SJ
+pasta/sessao/AutofillStates/2020.11.2.164946/SK
+pasta/sessao/AutofillStates/2020.11.2.164946/SL
+pasta/sessao/AutofillStates/2020.11.2.164946/SM
+pasta/sessao/AutofillStates/2020.11.2.164946/SN
+pasta/sessao/AutofillStates/2020.11.2.164946/SO
+pasta/sessao/AutofillStates/2020.11.2.164946/SR
+pasta/sessao/AutofillStates/2020.11.2.164946/SS
+pasta/sessao/AutofillStates/2020.11.2.164946/ST
+pasta/sessao/AutofillStates/2020.11.2.164946/SV
+pasta/sessao/AutofillStates/2020.11.2.164946/SX
+pasta/sessao/AutofillStates/2020.11.2.164946/SY
+pasta/sessao/AutofillStates/2020.11.2.164946/SZ
+pasta/sessao/AutofillStates/2020.11.2.164946/TC
+pasta/sessao/AutofillStates/2020.11.2.164946/TD
+pasta/sessao/AutofillStates/2020.11.2.164946/TG
+pasta/sessao/AutofillStates/2020.11.2.164946/TH
+pasta/sessao/AutofillStates/2020.11.2.164946/TJ
+pasta/sessao/AutofillStates/2020.11.2.164946/TK
+pasta/sessao/AutofillStates/2020.11.2.164946/TL
+pasta/sessao/AutofillStates/2020.11.2.164946/TM
+pasta/sessao/AutofillStates/2020.11.2.164946/TN
+pasta/sessao/AutofillStates/2020.11.2.164946/TO
+pasta/sessao/AutofillStates/2020.11.2.164946/TR
+pasta/sessao/AutofillStates/2020.11.2.164946/TT
+pasta/sessao/AutofillStates/2020.11.2.164946/TV
+pasta/sessao/AutofillStates/2020.11.2.164946/TW
+pasta/sessao/AutofillStates/2020.11.2.164946/TZ
+pasta/sessao/AutofillStates/2020.11.2.164946/UA
+pasta/sessao/AutofillStates/2020.11.2.164946/UG
+pasta/sessao/AutofillStates/2020.11.2.164946/US
+pasta/sessao/AutofillStates/2020.11.2.164946/UY
+pasta/sessao/AutofillStates/2020.11.2.164946/UZ
+pasta/sessao/AutofillStates/2020.11.2.164946/VC
+pasta/sessao/AutofillStates/2020.11.2.164946/VE
+pasta/sessao/AutofillStates/2020.11.2.164946/VG
+pasta/sessao/AutofillStates/2020.11.2.164946/VI
+pasta/sessao/AutofillStates/2020.11.2.164946/VN
+pasta/sessao/AutofillStates/2020.11.2.164946/VU
+pasta/sessao/AutofillStates/2020.11.2.164946/WF
+pasta/sessao/AutofillStates/2020.11.2.164946/WS
+pasta/sessao/AutofillStates/2020.11.2.164946/XK
+pasta/sessao/AutofillStates/2020.11.2.164946/YE
+pasta/sessao/AutofillStates/2020.11.2.164946/YT
+pasta/sessao/AutofillStates/2020.11.2.164946/ZA
+pasta/sessao/AutofillStates/2020.11.2.164946/ZM
+pasta/sessao/AutofillStates/2020.11.2.164946/ZW
+pasta/sessao/AutofillStates/2020.11.2.164946/_metadata/verified_contents.json
+pasta/sessao/BrowserMetrics/BrowserMetrics-65564FDA-292C.pma
+pasta/sessao/BrowserMetrics/BrowserMetrics-655650D1-149C.pma
+pasta/sessao/CertificateRevocation/8364/crl-set
+pasta/sessao/CertificateRevocation/8364/LICENSE
+pasta/sessao/CertificateRevocation/8364/manifest.fingerprint
+pasta/sessao/CertificateRevocation/8364/manifest.json
+pasta/sessao/CertificateRevocation/8364/_metadata/verified_contents.json
+pasta/sessao/component_crx_cache/eeigpngbgcognadeebkilcpcaedhellh_1.c64c9c1008f3ba5f6e18b3ca524bc98dcd8acfae0a2720a8f1f3ef0f8d643d05
+pasta/sessao/component_crx_cache/efniojlnjndmcbiieegkicadnoecjjef_1.c7025970897d77782aa2c25df49a6b3f6245443acbb4e8f98a6c4afa30b3e8bf
+pasta/sessao/component_crx_cache/ehgidpndbllacpjalkiimkbadgjfnnmc_1.a8a79d350c2a5e3bc36226633a8e0bed0dfab184e77f38fc8f0820ebacf8eafc
+pasta/sessao/component_crx_cache/gcmjkmgdlgnkkcocmoeiminaijmmjnii_1.cd1978742a4afdbaaa15bf712d5c90bef4144caa99024df98f6a9ad58043ae85
+pasta/sessao/component_crx_cache/ggkkehgbnfjpeggfpleeakpidbkibbmn_1.b6be680b524ea584c927bafd387e50e0ccbfdcbbbda89fb1e2386f02b9e0d01e
+pasta/sessao/component_crx_cache/giekcmmlnklenlaomppkphknjmnnpneh_1.fd515ec0dc30d25a09641b8b83729234bc50f4511e35ce17d24fd996252eaace
+pasta/sessao/component_crx_cache/gonpemdgkjcecdgbnaabipppbmgfggbe_1.e48c6c8a286bd26e172aef8baa42360a1d115cc08e96cdf09fd234f55faa8166
+pasta/sessao/component_crx_cache/hfnkpimlhhgieaddgfemjhofmfblmnib_1.d73afca5c3fcfa7d9405e5c77969cfe294298668f075595c84ec74038fcec9d5
+pasta/sessao/component_crx_cache/hnimpnehoodheedghdeeijklkeaacbdc_1.6f6bc93dcd62dc251850d2ff458fda96083ceb7fbe8eeb11248b8485ef2aea23
+pasta/sessao/component_crx_cache/jamhcnnkihinmdlkakkaopbjbbcngflc_1.a451a5689ab6b8e94d4392b9908239cafb9736f64539ed9d0574790665a4f2a3
+pasta/sessao/component_crx_cache/jflhchccmppkfebkiaminageehmchikm_1.43c325eb5a6a46a82de2c85c6ce9701440105501bf6eeeabb31b649cee23e7d6
+pasta/sessao/component_crx_cache/jflookgnkcckhobaglndicnbbgbonegd_1.bb5317d4c8655b06bb907e88b57449831860ea3c31352d8078e70bab164352af
+pasta/sessao/component_crx_cache/khaoiebndkojlmppeemjhbpbandiljpe_1.a2abb5cf57d3ad529ade67df01567446c6c6a5225b29715119e17c0e0aea6c03
+pasta/sessao/component_crx_cache/kiabhabjdbkjdpjbpigfodbdjmbglcoo_1.d777e561d401292893abda887af337f2d2e9755e47dd4a42402130484d09429b
+pasta/sessao/component_crx_cache/llkgjffcdpffmhiakmfcdcblohccpfmo_1.3e4f959036fef1cae2b1f426864a23f11caae1c96a2816523f2daf4213c3cc73
+pasta/sessao/component_crx_cache/lmelglejhemejginpboagddgdfbepgmp_1.a5bc77db6a1ba1dc2ca891f2276e461bf91a5947d025050d57f109979951754b
+pasta/sessao/component_crx_cache/neifaoindggfcjicffkgpmnlppeffabd_1.c900ba9a2d8318263fd43782ee6fd5fb50bad78bf0eb2c972b5922c458af45ed
+pasta/sessao/component_crx_cache/niikhdgajlphfehepabhhblakbdgeefj_1.349dde1ae2658bf6ddc42291b4ae1a2407982114d47d1e70234a217ec3f36aca
+pasta/sessao/component_crx_cache/obedbbhbpmojnkanicioggnmelmoomoc_1.7010d4a51d88cee6c3d7b1784631083606ed82193be019f5c11b6dee76b14b70
+pasta/sessao/component_crx_cache/ojhpjlocmbogdgmfpkhlaaeamibhnphh_1.545666a4efd056351597bb386aea1368105ededc976ed5650d8682daab9f37ff
+pasta/sessao/Crashpad/metadata
+pasta/sessao/Crashpad/settings.dat
+pasta/sessao/Crowd Deny/2023.10.13.1141/manifest.fingerprint
+pasta/sessao/Crowd Deny/2023.10.13.1141/manifest.json
+pasta/sessao/Crowd Deny/2023.10.13.1141/Preload Data
+pasta/sessao/Crowd Deny/2023.10.13.1141/_metadata/verified_contents.json
+pasta/sessao/Default/Affiliation Database
+pasta/sessao/Default/Affiliation Database-journal
+pasta/sessao/Default/DIPS
+pasta/sessao/Default/DIPS-journal
+pasta/sessao/Default/Favicons
+pasta/sessao/Default/Favicons-journal
+pasta/sessao/Default/heavy_ad_intervention_opt_out.db
+pasta/sessao/Default/heavy_ad_intervention_opt_out.db-journal
+pasta/sessao/Default/History
+pasta/sessao/Default/History-journal
+pasta/sessao/Default/LOCK
+pasta/sessao/Default/LOG
+pasta/sessao/Default/LOG.old
+pasta/sessao/Default/Login Data
+pasta/sessao/Default/Login Data For Account
+pasta/sessao/Default/Login Data For Account-journal
+pasta/sessao/Default/Login Data-journal
+pasta/sessao/Default/Network Action Predictor
+pasta/sessao/Default/Network Action Predictor-journal
+pasta/sessao/Default/Preferences
+pasta/sessao/Default/PreferredApps
+pasta/sessao/Default/Secure Preferences
+pasta/sessao/Default/Shortcuts
+pasta/sessao/Default/Shortcuts-journal
+pasta/sessao/Default/Top Sites
+pasta/sessao/Default/Top Sites-journal
+pasta/sessao/Default/trusted_vault.pb
+pasta/sessao/Default/Visited Links
+pasta/sessao/Default/Web Data
+pasta/sessao/Default/Web Data-journal
+pasta/sessao/Default/AutofillStrikeDatabase/LOCK
+pasta/sessao/Default/AutofillStrikeDatabase/LOG
+pasta/sessao/Default/AutofillStrikeDatabase/LOG.old
+pasta/sessao/Default/BudgetDatabase/LOCK
+pasta/sessao/Default/BudgetDatabase/LOG
+pasta/sessao/Default/BudgetDatabase/LOG.old
+pasta/sessao/Default/Cache/Cache_Data/data_0
+pasta/sessao/Default/Cache/Cache_Data/data_1
+pasta/sessao/Default/Cache/Cache_Data/data_2
+pasta/sessao/Default/Cache/Cache_Data/data_3
+pasta/sessao/Default/Cache/Cache_Data/f_00000d
+pasta/sessao/Default/Cache/Cache_Data/f_00000f
+pasta/sessao/Default/Cache/Cache_Data/f_00001a
+pasta/sessao/Default/Cache/Cache_Data/f_00001b
+pasta/sessao/Default/Cache/Cache_Data/f_00001c
+pasta/sessao/Default/Cache/Cache_Data/f_00001e
+pasta/sessao/Default/Cache/Cache_Data/f_00001f
+pasta/sessao/Default/Cache/Cache_Data/f_00002a
+pasta/sessao/Default/Cache/Cache_Data/f_00002b
+pasta/sessao/Default/Cache/Cache_Data/f_00002c
+pasta/sessao/Default/Cache/Cache_Data/f_00002d
+pasta/sessao/Default/Cache/Cache_Data/f_00002e
+pasta/sessao/Default/Cache/Cache_Data/f_00002f
+pasta/sessao/Default/Cache/Cache_Data/f_00003a
+pasta/sessao/Default/Cache/Cache_Data/f_00003b
+pasta/sessao/Default/Cache/Cache_Data/f_00003c
+pasta/sessao/Default/Cache/Cache_Data/f_00003d
+pasta/sessao/Default/Cache/Cache_Data/f_00003e
+pasta/sessao/Default/Cache/Cache_Data/f_00003f
+pasta/sessao/Default/Cache/Cache_Data/f_00004a
+pasta/sessao/Default/Cache/Cache_Data/f_00004b
+pasta/sessao/Default/Cache/Cache_Data/f_00004c
+pasta/sessao/Default/Cache/Cache_Data/f_00004d
+pasta/sessao/Default/Cache/Cache_Data/f_00004e
+pasta/sessao/Default/Cache/Cache_Data/f_00004f
+pasta/sessao/Default/Cache/Cache_Data/f_00005a
+pasta/sessao/Default/Cache/Cache_Data/f_00005b
+pasta/sessao/Default/Cache/Cache_Data/f_00005c
+pasta/sessao/Default/Cache/Cache_Data/f_00005d
+pasta/sessao/Default/Cache/Cache_Data/f_00005e
+pasta/sessao/Default/Cache/Cache_Data/f_00005f
+pasta/sessao/Default/Cache/Cache_Data/f_00006a
+pasta/sessao/Default/Cache/Cache_Data/f_00006b
+pasta/sessao/Default/Cache/Cache_Data/f_00007a
+pasta/sessao/Default/Cache/Cache_Data/f_000008
+pasta/sessao/Default/Cache/Cache_Data/f_000012
+pasta/sessao/Default/Cache/Cache_Data/f_000013
+pasta/sessao/Default/Cache/Cache_Data/f_000014
+pasta/sessao/Default/Cache/Cache_Data/f_000015
+pasta/sessao/Default/Cache/Cache_Data/f_000016
+pasta/sessao/Default/Cache/Cache_Data/f_000017
+pasta/sessao/Default/Cache/Cache_Data/f_000018
+pasta/sessao/Default/Cache/Cache_Data/f_000019
+pasta/sessao/Default/Cache/Cache_Data/f_000020
+pasta/sessao/Default/Cache/Cache_Data/f_000021
+pasta/sessao/Default/Cache/Cache_Data/f_000022
+pasta/sessao/Default/Cache/Cache_Data/f_000023
+pasta/sessao/Default/Cache/Cache_Data/f_000024
+pasta/sessao/Default/Cache/Cache_Data/f_000025
+pasta/sessao/Default/Cache/Cache_Data/f_000026
+pasta/sessao/Default/Cache/Cache_Data/f_000027
+pasta/sessao/Default/Cache/Cache_Data/f_000028
+pasta/sessao/Default/Cache/Cache_Data/f_000029
+pasta/sessao/Default/Cache/Cache_Data/f_000030
+pasta/sessao/Default/Cache/Cache_Data/f_000031
+pasta/sessao/Default/Cache/Cache_Data/f_000032
+pasta/sessao/Default/Cache/Cache_Data/f_000033
+pasta/sessao/Default/Cache/Cache_Data/f_000034
+pasta/sessao/Default/Cache/Cache_Data/f_000035
+pasta/sessao/Default/Cache/Cache_Data/f_000036
+pasta/sessao/Default/Cache/Cache_Data/f_000037
+pasta/sessao/Default/Cache/Cache_Data/f_000038
+pasta/sessao/Default/Cache/Cache_Data/f_000039
+pasta/sessao/Default/Cache/Cache_Data/f_000040
+pasta/sessao/Default/Cache/Cache_Data/f_000041
+pasta/sessao/Default/Cache/Cache_Data/f_000042
+pasta/sessao/Default/Cache/Cache_Data/f_000043
+pasta/sessao/Default/Cache/Cache_Data/f_000044
+pasta/sessao/Default/Cache/Cache_Data/f_000045
+pasta/sessao/Default/Cache/Cache_Data/f_000046
+pasta/sessao/Default/Cache/Cache_Data/f_000047
+pasta/sessao/Default/Cache/Cache_Data/f_000048
+pasta/sessao/Default/Cache/Cache_Data/f_000049
+pasta/sessao/Default/Cache/Cache_Data/f_000050
+pasta/sessao/Default/Cache/Cache_Data/f_000051
+pasta/sessao/Default/Cache/Cache_Data/f_000052
+pasta/sessao/Default/Cache/Cache_Data/f_000053
+pasta/sessao/Default/Cache/Cache_Data/f_000054
+pasta/sessao/Default/Cache/Cache_Data/f_000055
+pasta/sessao/Default/Cache/Cache_Data/f_000056
+pasta/sessao/Default/Cache/Cache_Data/f_000057
+pasta/sessao/Default/Cache/Cache_Data/f_000058
+pasta/sessao/Default/Cache/Cache_Data/f_000059
+pasta/sessao/Default/Cache/Cache_Data/f_000060
+pasta/sessao/Default/Cache/Cache_Data/f_000061
+pasta/sessao/Default/Cache/Cache_Data/f_000062
+pasta/sessao/Default/Cache/Cache_Data/f_000063
+pasta/sessao/Default/Cache/Cache_Data/f_000064
+pasta/sessao/Default/Cache/Cache_Data/f_000067
+pasta/sessao/Default/Cache/Cache_Data/f_000068
+pasta/sessao/Default/Cache/Cache_Data/f_000069
+pasta/sessao/Default/Cache/Cache_Data/f_000072
+pasta/sessao/Default/Cache/Cache_Data/f_000074
+pasta/sessao/Default/Cache/Cache_Data/f_000075
+pasta/sessao/Default/Cache/Cache_Data/f_000076
+pasta/sessao/Default/Cache/Cache_Data/f_000077
+pasta/sessao/Default/Cache/Cache_Data/f_000078
+pasta/sessao/Default/Cache/Cache_Data/f_000079
+pasta/sessao/Default/Cache/Cache_Data/index
+pasta/sessao/Default/Code Cache/js/910d87996958fb51_0
+pasta/sessao/Default/Code Cache/js/b695c624711198fe_0
+pasta/sessao/Default/Code Cache/js/b870861c2172f912_0
+pasta/sessao/Default/Code Cache/js/index
+pasta/sessao/Default/Code Cache/js/index-dir/the-real-index
+pasta/sessao/Default/Code Cache/wasm/index
+pasta/sessao/Default/Code Cache/wasm/index-dir/the-real-index
+pasta/sessao/Default/commerce_subscription_db/LOCK
+pasta/sessao/Default/commerce_subscription_db/LOG
+pasta/sessao/Default/commerce_subscription_db/LOG.old
+pasta/sessao/Default/coupon_db/LOCK
+pasta/sessao/Default/coupon_db/LOG
+pasta/sessao/Default/coupon_db/LOG.old
+pasta/sessao/Default/databases/Databases.db
+pasta/sessao/Default/databases/Databases.db-journal
+pasta/sessao/Default/DawnCache/data_0
+pasta/sessao/Default/DawnCache/data_1
+pasta/sessao/Default/DawnCache/data_2
+pasta/sessao/Default/DawnCache/data_3
+pasta/sessao/Default/DawnCache/index
+pasta/sessao/Default/discounts_db/LOCK
+pasta/sessao/Default/discounts_db/LOG
+pasta/sessao/Default/discounts_db/LOG.old
+pasta/sessao/Default/Download Service/EntryDB/LOCK
+pasta/sessao/Default/Download Service/EntryDB/LOG
+pasta/sessao/Default/Download Service/EntryDB/LOG.old
+pasta/sessao/Default/Extension Rules/000003.log
+pasta/sessao/Default/Extension Rules/CURRENT
+pasta/sessao/Default/Extension Rules/LOCK
+pasta/sessao/Default/Extension Rules/LOG
+pasta/sessao/Default/Extension Rules/LOG.old
+pasta/sessao/Default/Extension Rules/MANIFEST-000001
+pasta/sessao/Default/Extension Scripts/000003.log
+pasta/sessao/Default/Extension Scripts/CURRENT
+pasta/sessao/Default/Extension Scripts/LOCK
+pasta/sessao/Default/Extension Scripts/LOG
+pasta/sessao/Default/Extension Scripts/LOG.old
+pasta/sessao/Default/Extension Scripts/MANIFEST-000001
+pasta/sessao/Default/Extension State/000003.log
+pasta/sessao/Default/Extension State/CURRENT
+pasta/sessao/Default/Extension State/LOCK
+pasta/sessao/Default/Extension State/LOG
+pasta/sessao/Default/Extension State/LOG.old
+pasta/sessao/Default/Extension State/MANIFEST-000001
+pasta/sessao/Default/Feature Engagement Tracker/AvailabilityDB/LOCK
+pasta/sessao/Default/Feature Engagement Tracker/AvailabilityDB/LOG
+pasta/sessao/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old
+pasta/sessao/Default/Feature Engagement Tracker/EventDB/LOCK
+pasta/sessao/Default/Feature Engagement Tracker/EventDB/LOG
+pasta/sessao/Default/Feature Engagement Tracker/EventDB/LOG.old
+pasta/sessao/Default/File System/000/t/.usage
+pasta/sessao/Default/File System/000/t/Paths/000003.log
+pasta/sessao/Default/File System/000/t/Paths/CURRENT
+pasta/sessao/Default/File System/000/t/Paths/LOCK
+pasta/sessao/Default/File System/000/t/Paths/LOG
+pasta/sessao/Default/File System/000/t/Paths/MANIFEST-000001
+pasta/sessao/Default/File System/Origins/000003.log
+pasta/sessao/Default/File System/Origins/CURRENT
+pasta/sessao/Default/File System/Origins/LOCK
+pasta/sessao/Default/File System/Origins/LOG
+pasta/sessao/Default/File System/Origins/LOG.old
+pasta/sessao/Default/File System/Origins/MANIFEST-000001
+pasta/sessao/Default/GPUCache/data_0
+pasta/sessao/Default/GPUCache/data_1
+pasta/sessao/Default/GPUCache/data_2
+pasta/sessao/Default/GPUCache/data_3
+pasta/sessao/Default/GPUCache/index
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.blob/1f/00/2
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002389.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002390.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002391.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002392.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002404.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002435.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002456.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002467.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002505.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002516.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002539.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002552.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002594.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002615.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002628.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002651.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002673.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002795.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003127.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003128.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003129.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003130.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003131.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003132.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003133.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003134.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003135.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003136.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003137.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003145.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003146.log
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003149.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003150.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003151.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003152.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003153.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003154.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003155.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003156.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003157.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003158.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003159.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003160.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003161.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003162.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003163.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003164.ldb
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/CURRENT
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/LOCK
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/LOG
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/LOG.old
+pasta/sessao/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+pasta/sessao/Default/Local Storage/leveldb/000003.log
+pasta/sessao/Default/Local Storage/leveldb/CURRENT
+pasta/sessao/Default/Local Storage/leveldb/LOCK
+pasta/sessao/Default/Local Storage/leveldb/LOG
+pasta/sessao/Default/Local Storage/leveldb/LOG.old
+pasta/sessao/Default/Local Storage/leveldb/MANIFEST-000001
+pasta/sessao/Default/Network/9a36ea3a-7f84-46f3-aaf7-7154df285c3a.tmp
+pasta/sessao/Default/Network/a86e7f8c-68e6-4eb6-983b-e5f678d57c25.tmp
+pasta/sessao/Default/Network/Cookies
+pasta/sessao/Default/Network/Cookies-journal
+pasta/sessao/Default/Network/Network Persistent State
+pasta/sessao/Default/Network/NetworkDataMigrated
+pasta/sessao/Default/Network/Reporting and NEL
+pasta/sessao/Default/Network/Reporting and NEL-journal
+pasta/sessao/Default/Network/SCT Auditing Pending Reports
+pasta/sessao/Default/Network/TransportSecurity
+pasta/sessao/Default/Network/Trust Tokens
+pasta/sessao/Default/Network/Trust Tokens-journal
+pasta/sessao/Default/optimization_guide_hint_cache_store/LOCK
+pasta/sessao/Default/optimization_guide_hint_cache_store/LOG
+pasta/sessao/Default/optimization_guide_hint_cache_store/LOG.old
+pasta/sessao/Default/optimization_guide_model_metadata_store/LOCK
+pasta/sessao/Default/optimization_guide_model_metadata_store/LOG
+pasta/sessao/Default/optimization_guide_model_metadata_store/LOG.old
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/593b43e5-27f5-44a5-a351-5df7beea88bd/model-info.pb
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/593b43e5-27f5-44a5-a351-5df7beea88bd/model.tflite
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/6c21caa9-a7de-4ef6-80a3-0beb23bae546/global-entities_metadata
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/6c21caa9-a7de-4ef6-80a3-0beb23bae546/global-entities_names
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/6c21caa9-a7de-4ef6-80a3-0beb23bae546/global-entities_names_filter
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/6c21caa9-a7de-4ef6-80a3-0beb23bae546/global-entities_prefixes_filter
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/6c21caa9-a7de-4ef6-80a3-0beb23bae546/model_metadata.pb
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/6c21caa9-a7de-4ef6-80a3-0beb23bae546/model-info.pb
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/6c21caa9-a7de-4ef6-80a3-0beb23bae546/model.tflite
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/6c21caa9-a7de-4ef6-80a3-0beb23bae546/word_embeddings
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/80ac123a-f3b6-4878-bc92-3fd8ffa1c258/model-info.pb
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/80ac123a-f3b6-4878-bc92-3fd8ffa1c258/model.tflite
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/93fe2803-adf1-452c-8a61-b79273361560/model-info.pb
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/93fe2803-adf1-452c-8a61-b79273361560/model.tflite
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/93fe2803-adf1-452c-8a61-b79273361560/visual_model_desktop.tflite
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/ceae8a06-7015-4246-8b12-d7f3774df30f/model-info.pb
+pasta/sessao/Default/optimization_guide_prediction_model_downloads/ceae8a06-7015-4246-8b12-d7f3774df30f/model.tflite
+pasta/sessao/Default/parcel_tracking_db/LOCK
+pasta/sessao/Default/parcel_tracking_db/LOG
+pasta/sessao/Default/parcel_tracking_db/LOG.old
+pasta/sessao/Default/PersistentOriginTrials/LOCK
+pasta/sessao/Default/PersistentOriginTrials/LOG
+pasta/sessao/Default/PersistentOriginTrials/LOG.old
+pasta/sessao/Default/Segmentation Platform/SegmentInfoDB/LOCK
+pasta/sessao/Default/Segmentation Platform/SegmentInfoDB/LOG
+pasta/sessao/Default/Segmentation Platform/SegmentInfoDB/LOG.old
+pasta/sessao/Default/Segmentation Platform/SignalDB/LOCK
+pasta/sessao/Default/Segmentation Platform/SignalDB/LOG
+pasta/sessao/Default/Segmentation Platform/SignalDB/LOG.old
+pasta/sessao/Default/Segmentation Platform/SignalStorageConfigDB/LOCK
+pasta/sessao/Default/Segmentation Platform/SignalStorageConfigDB/LOG
+pasta/sessao/Default/Segmentation Platform/SignalStorageConfigDB/LOG.old
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/index.txt
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/0ae46f60-8b48-4161-885d-bca1abab9a05/bba4b8f10ad67e04_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/0ae46f60-8b48-4161-885d-bca1abab9a05/d2569693f6d43409_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/0ae46f60-8b48-4161-885d-bca1abab9a05/index
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/0ae46f60-8b48-4161-885d-bca1abab9a05/index-dir/the-real-index
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/0b866e4dcec2185b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/0c5f3c098a2bae3b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/0cf5d516ed49cf0a_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/0e07263165af804e_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/0efd2c77a03001c8_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/1d91e15e8586ef4b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/1e1fbfc4a52bd533_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/1f665b2ed7102faf_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/2a70d5bac6c9bbfe_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/2ba73653d198644f_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/2be470b49a0e911b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/2de8a84765ae4997_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/2e63b40e0773e2fc_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/2ebf8b3361b31cba_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/2f4789d4aa630f7a_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/3e9d75e4b8b3181f_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/4a272101b338e9d4_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/4f0d04c8ccd6cfe1_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/5a1d1654051eaec3_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/5d77ed538cf6c784_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/5e87fc2340ba1bbb_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/6a8c545667fcae64_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/6b3c3740ab435a79_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/6c41f9208a1d82f9_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/6f84beff2b7cc232_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/6fb8ea85972a93e8_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/7a071e1f6e834eb0_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/7b89087935013900_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/7d4f3845188e6993_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/7e82a01f32741d87_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/7f478e4e7b9aab2b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/8c97e3e4083b81ad_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/8da9bc5dd0da0406_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/8f64204957bd35ad_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/9a10ebf5f31781c8_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/09b46c3aca286c41_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/9e8d0541e1f31df7_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/9e84f5f446b8ef36_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/12e9f77636a3c9f2_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/12f48d6beb2c0379_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/24d9069da2ecd6ae_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/25b068e8d3fe3bbc_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/36ec60da60e6211d_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/41e643724ac517f3_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/46d5f35fca5f6793_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/57b188f2d8c2661f_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/62fc354831ce888a_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/68e916c4f766c157_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/71a6b3903dafaa8a_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/72fb2830206f4655_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/73a7c5b835910e8f_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/84f1c8f8fe493e74_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/89bceb54cd13227a_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/93c18566e9e1e262_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/96e9c0e86b02cbe8_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/97dc81e9fb78cd9b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/97f78c4b2684ff4b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/111da91a51da5814_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/275b2d7b114e3c6b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/306c757a1b857b15_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/418ff5951e3ac195_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/558b868dfef3b084_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/567b517cdb2973ab_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/567b4579ab0d6b05_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/779b81ee532a17b0_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/792c87aee089bf07_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/823e9d8e5d563589_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/841f7e6f271f437a_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/875de9f1882ab7fb_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/876abc2c393cf985_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/945f51132c37cd63_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/2638c0b5ada90c9d_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/2942f5695264b0bc_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/3490e0ca66637197_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/3602d5c58c21605c_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/4827e178306e6656_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/5014aba0c4b8b121_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/6688c92b0e9b8687_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/7194baf57174dbd7_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/9757e46f0f94e21c_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/26262a70021bbd77_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/39337b8b586bf59b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/64450a5ba3b2d2c2_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/5291047acb355d5d_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/5756539ca87866e5_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/37042340ada4ceb9_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/6748242425063bb1_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/a07d22d609a1184c_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/a82a5f9f7eb791ba_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/a034088ecd4af689_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/a745496d096bf47b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/a875491c4d9b86a8_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/aa953e825113e48a_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/aaac530e315be16a_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/ad4ea32f77cba139_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/aed54b8c31825d48_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/afebe061f3aeca53_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/b382a140a00945c1_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/b488fa695232ec1e_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/b0884db52172c1f3_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/bbefdc6b4e9113b0_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/bc78c975f6645987_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/bec8849791c2296d_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/becc030fc665b8f9_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/bf7468fbd7d8c5e1_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/c7f5336d61c9f5bb_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/c28e22438dc6d89e_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/cc2ca3a008ec0bca_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/cc9b12c375bb01e5_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/cc41557948df1801_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/cdeef7f758198c33_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/ce7a132633562508_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/cf6828112ff3635c_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/cfd9f82387526829_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/d8bd530b7ab1a60d_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/d368cf53d05c738d_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/d2989bda255ed234_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/da5a3eede478c54e_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/def1f15a3cbdcab8_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/e5a47bc7d979a61e_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/e8eda7fac2338d5e_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/e9ab37964f995213_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/e9cb6396f007e2cb_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/e28a66b93fdad230_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/e91aca4e0dc1d539_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/e422aeb28541d0c4_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/e2549db5b87cda28_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/e2788daad4cbee22_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/e3591aa68e086d19_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/ede873688e624f8b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/ee1305bf33977e44_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/ef37e4af7415ded3_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/efed2cee8b79169b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/f1cb46d17d52677d_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/f27ae800088fbe18_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/f81ddaa6a1c3da1f_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/f88a8ebf163c8109_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/f22393cfcd80c159_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/f54955c2a224648f_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/fb2a03a7d0ff4774_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/fc504495df00720e_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/index
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/40c2a408-90a4-44e0-b86b-ae5a67470b10/index-dir/the-real-index
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/2e2d8756e4879c6e_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/3bfd93c3fa8d37df_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/4da280960c77d9ce_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/4da280960c77d9ce_1
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/5a6ab793c9601b8c_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/5a6ab793c9601b8c_1
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/5cedb68b32d168fa_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/5cedb68b32d168fa_1
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/5ddd4776e382e05d_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/5ddd4776e382e05d_1
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/8a78213ff92b8453_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/8a78213ff92b8453_1
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/8b6999931b89733b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/8e43809de30097f3_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/15f064e079cd9e2c_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/64bc12f34dee0c24_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/64bc12f34dee0c24_1
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/74abf4553af336c5_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/74abf4553af336c5_1
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/99fbb82ebd213da8_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/463aa9bc3fcb1ade_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/463aa9bc3fcb1ade_1
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/695a62a9e799fa6e_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/695a62a9e799fa6e_1
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/77991b0509ed0a88_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/136528a4e5da1bcc_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/136528a4e5da1bcc_1
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/10343431ba36b201_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/b76b0697b71983bd_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/b89055f930cf9c7b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/b89055f930cf9c7b_1
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/cdc49b1f07783ab7_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/d7e70c7d2e815e2a_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/dfb5288793ebf237_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/e17400bb038d8b43_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/e17400bb038d8b43_1
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/f4af0b6ede48b690_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/f4af0b6ede48b690_1
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/f32bf1138928e283_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/f32bf1138928e283_1
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/f809b0fe82c88bc8_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/f809b0fe82c88bc8_1
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/index
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/index-dir/temp-index
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/6d8f9fae-229c-4752-81ae-a33c3fd05227/index-dir/the-real-index
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/0f6e37934fe65abf_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/1c44181381cd169b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/3de2943e59a88c0b_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/3e73ccfc46ef8c45_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/05e3777a6b293700_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/7b81da29fea6a47e_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/8acde587e52e35a2_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/54d448c7919158c0_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/88d98f345d7eecdf_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/93f911919d63e5ab_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/735ca1b9dd710d94_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/856590b8af811720_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/2324143d3b19dec5_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/b4634800ce513226_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/d7b270aedd1cc158_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/dd211cdeb1ba2fbe_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/e5c9069a88aac05d_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/e9ddd40a23fa8e23_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/index
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a5bb37ff-6fe8-4753-b234-7d8f13aaa6a9/index-dir/the-real-index
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/b79b4888-2c94-4d0f-8d4d-9d882f7b7dee/2a2b7cbbc61290b4_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/b79b4888-2c94-4d0f-8d4d-9d882f7b7dee/6ea66fa5b36b4157_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/b79b4888-2c94-4d0f-8d4d-9d882f7b7dee/92172a9e586cee2a_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/b79b4888-2c94-4d0f-8d4d-9d882f7b7dee/e6039a61e4d2a504_0
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/b79b4888-2c94-4d0f-8d4d-9d882f7b7dee/index
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/b79b4888-2c94-4d0f-8d4d-9d882f7b7dee/index-dir/the-real-index
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dfb1aef1-edae-45bb-8f85-3b3d58061c4c/index
+pasta/sessao/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dfb1aef1-edae-45bb-8f85-3b3d58061c4c/index-dir/the-real-index
+pasta/sessao/Default/Service Worker/Database/000003.log
+pasta/sessao/Default/Service Worker/Database/CURRENT
+pasta/sessao/Default/Service Worker/Database/LOCK
+pasta/sessao/Default/Service Worker/Database/LOG
+pasta/sessao/Default/Service Worker/Database/LOG.old
+pasta/sessao/Default/Service Worker/Database/MANIFEST-000001
+pasta/sessao/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_0
+pasta/sessao/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_1
+pasta/sessao/Default/Service Worker/ScriptCache/index
+pasta/sessao/Default/Service Worker/ScriptCache/index-dir/the-real-index
+pasta/sessao/Default/Session Storage/000003.log
+pasta/sessao/Default/Session Storage/CURRENT
+pasta/sessao/Default/Session Storage/LOCK
+pasta/sessao/Default/Session Storage/LOG
+pasta/sessao/Default/Session Storage/LOG.old
+pasta/sessao/Default/Session Storage/MANIFEST-000001
+pasta/sessao/Default/Sessions/Session_13344628956890840
+pasta/sessao/Default/Sessions/Session_13344629203952032
+pasta/sessao/Default/Sessions/Tabs_13344628957110779
+pasta/sessao/Default/Sessions/Tabs_13344629204142789
+pasta/sessao/Default/Shared Dictionary/db
+pasta/sessao/Default/Shared Dictionary/cache/index
+pasta/sessao/Default/Shared Dictionary/cache/index-dir/the-real-index
+pasta/sessao/Default/shared_proto_db/000003.log
+pasta/sessao/Default/shared_proto_db/CURRENT
+pasta/sessao/Default/shared_proto_db/LOCK
+pasta/sessao/Default/shared_proto_db/LOG
+pasta/sessao/Default/shared_proto_db/LOG.old
+pasta/sessao/Default/shared_proto_db/MANIFEST-000001
+pasta/sessao/Default/shared_proto_db/metadata/000003.log
+pasta/sessao/Default/shared_proto_db/metadata/CURRENT
+pasta/sessao/Default/shared_proto_db/metadata/LOCK
+pasta/sessao/Default/shared_proto_db/metadata/LOG
+pasta/sessao/Default/shared_proto_db/metadata/LOG.old
+pasta/sessao/Default/shared_proto_db/metadata/MANIFEST-000001
+pasta/sessao/Default/Site Characteristics Database/000003.log
+pasta/sessao/Default/Site Characteristics Database/CURRENT
+pasta/sessao/Default/Site Characteristics Database/LOCK
+pasta/sessao/Default/Site Characteristics Database/LOG
+pasta/sessao/Default/Site Characteristics Database/LOG.old
+pasta/sessao/Default/Site Characteristics Database/MANIFEST-000001
+pasta/sessao/Default/Sync Data/LevelDB/000003.log
+pasta/sessao/Default/Sync Data/LevelDB/CURRENT
+pasta/sessao/Default/Sync Data/LevelDB/LOCK
+pasta/sessao/Default/Sync Data/LevelDB/LOG
+pasta/sessao/Default/Sync Data/LevelDB/LOG.old
+pasta/sessao/Default/Sync Data/LevelDB/MANIFEST-000001
+pasta/sessao/Default/VideoDecodeStats/LOCK
+pasta/sessao/Default/VideoDecodeStats/LOG
+pasta/sessao/Default/WebStorage/QuotaManager
+pasta/sessao/Default/WebStorage/QuotaManager-journal
+pasta/sessao/FileTypePolicies/62/download_file_types.pb
+pasta/sessao/FileTypePolicies/62/manifest.fingerprint
+pasta/sessao/FileTypePolicies/62/manifest.json
+pasta/sessao/FileTypePolicies/62/_metadata/verified_contents.json
+pasta/sessao/FirstPartySetsPreloaded/2023.11.8.0/LICENSE
+pasta/sessao/FirstPartySetsPreloaded/2023.11.8.0/manifest.fingerprint
+pasta/sessao/FirstPartySetsPreloaded/2023.11.8.0/manifest.json
+pasta/sessao/FirstPartySetsPreloaded/2023.11.8.0/sets.json
+pasta/sessao/FirstPartySetsPreloaded/2023.11.8.0/_metadata/verified_contents.json
+pasta/sessao/GraphiteDawnCache/data_0
+pasta/sessao/GraphiteDawnCache/data_1
+pasta/sessao/GraphiteDawnCache/data_2
+pasta/sessao/GraphiteDawnCache/data_3
+pasta/sessao/GraphiteDawnCache/index
+pasta/sessao/GrShaderCache/data_0
+pasta/sessao/GrShaderCache/data_1
+pasta/sessao/GrShaderCache/data_2
+pasta/sessao/GrShaderCache/data_3
+pasta/sessao/GrShaderCache/f_00000a
+pasta/sessao/GrShaderCache/f_00000b
+pasta/sessao/GrShaderCache/f_00000c
+pasta/sessao/GrShaderCache/f_00000d
+pasta/sessao/GrShaderCache/f_00000e
+pasta/sessao/GrShaderCache/f_00000f
+pasta/sessao/GrShaderCache/f_000001
+pasta/sessao/GrShaderCache/f_00001a
+pasta/sessao/GrShaderCache/f_00001b
+pasta/sessao/GrShaderCache/f_00001c
+pasta/sessao/GrShaderCache/f_00001d
+pasta/sessao/GrShaderCache/f_00001e
+pasta/sessao/GrShaderCache/f_00001f
+pasta/sessao/GrShaderCache/f_000002
+pasta/sessao/GrShaderCache/f_000003
+pasta/sessao/GrShaderCache/f_000004
+pasta/sessao/GrShaderCache/f_000005
+pasta/sessao/GrShaderCache/f_000006
+pasta/sessao/GrShaderCache/f_000007
+pasta/sessao/GrShaderCache/f_000008
+pasta/sessao/GrShaderCache/f_000009
+pasta/sessao/GrShaderCache/f_000010
+pasta/sessao/GrShaderCache/f_000011
+pasta/sessao/GrShaderCache/f_000012
+pasta/sessao/GrShaderCache/f_000013
+pasta/sessao/GrShaderCache/f_000014
+pasta/sessao/GrShaderCache/f_000015
+pasta/sessao/GrShaderCache/f_000016
+pasta/sessao/GrShaderCache/f_000017
+pasta/sessao/GrShaderCache/f_000018
+pasta/sessao/GrShaderCache/f_000019
+pasta/sessao/GrShaderCache/index
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-af.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-as.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-be.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-bg.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-bn.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-cs.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-cu.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-cy.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-da.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-de-1901.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-de-1996.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-de-ch-1901.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-el.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-en-gb.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-en-us.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-es.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-et.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-eu.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-fr.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-ga.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-gl.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-gu.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-hi.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-hr.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-hu.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-hy.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-it.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-ka.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-kn.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-la.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-lt.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-lv.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-ml.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-mn-cyrl.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-mr.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-mul-ethi.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-nb.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-nl.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-nn.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-or.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-pa.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-pt.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-ru.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-sk.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-sl.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-sq.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-sv.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-ta.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-te.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-tk.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-uk.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/hyph-und-ethi.hyb
+pasta/sessao/hyphen-data/120.0.6046.0/manifest.fingerprint
+pasta/sessao/hyphen-data/120.0.6046.0/manifest.json
+pasta/sessao/hyphen-data/120.0.6046.0/_metadata/verified_contents.json
+pasta/sessao/MediaFoundationWidevineCdm/x64/1.0.2738.0/Google.Widevine.CDM.dll
+pasta/sessao/MediaFoundationWidevineCdm/x64/1.0.2738.0/manifest.fingerprint
+pasta/sessao/MediaFoundationWidevineCdm/x64/1.0.2738.0/manifest.json
+pasta/sessao/MediaFoundationWidevineCdm/x64/1.0.2738.0/_metadata/verified_contents.json
+pasta/sessao/OnDeviceHeadSuggestModel/20230923.567854667.14/cr_pt-BR_2023-09-23_567854667_500000_index.bin
+pasta/sessao/OnDeviceHeadSuggestModel/20230923.567854667.14/manifest.fingerprint
+pasta/sessao/OnDeviceHeadSuggestModel/20230923.567854667.14/manifest.json
+pasta/sessao/OnDeviceHeadSuggestModel/20230923.567854667.14/_metadata/verified_contents.json
+pasta/sessao/OptimizationHints/420/manifest.fingerprint
+pasta/sessao/OptimizationHints/420/manifest.json
+pasta/sessao/OptimizationHints/420/optimization-hints.pb
+pasta/sessao/OptimizationHints/420/_metadata/verified_contents.json
+pasta/sessao/OriginTrials/1.0.0.14/manifest.fingerprint
+pasta/sessao/OriginTrials/1.0.0.14/manifest.json
+pasta/sessao/OriginTrials/1.0.0.14/_metadata/verified_contents.json
+pasta/sessao/PKIMetadata/770/crs.pb
+pasta/sessao/PKIMetadata/770/ct_config.pb
+pasta/sessao/PKIMetadata/770/kp_pinslist.pb
+pasta/sessao/PKIMetadata/770/manifest.fingerprint
+pasta/sessao/PKIMetadata/770/manifest.json
+pasta/sessao/PKIMetadata/770/_metadata/verified_contents.json
+pasta/sessao/pnacl/0.57.44.2492/manifest.fingerprint
+pasta/sessao/pnacl/0.57.44.2492/manifest.json
+pasta/sessao/pnacl/0.57.44.2492/_metadata/verified_contents.json
+pasta/sessao/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_pnacl_json
+pasta/sessao/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_crtbegin_for_eh_o
+pasta/sessao/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_crtbegin_o
+pasta/sessao/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_crtend_o
+pasta/sessao/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_ld_nexe
+pasta/sessao/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libcrt_platform_a
+pasta/sessao/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libgcc_a
+pasta/sessao/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libpnacl_irt_shim_a
+pasta/sessao/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libpnacl_irt_shim_dummy_a
+pasta/sessao/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_pnacl_llc_nexe
+pasta/sessao/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_pnacl_sz_nexe
+pasta/sessao/PrivacySandboxAttestationsPreloaded/2023.11.15.0/manifest.fingerprint
+pasta/sessao/PrivacySandboxAttestationsPreloaded/2023.11.15.0/manifest.json
+pasta/sessao/PrivacySandboxAttestationsPreloaded/2023.11.15.0/privacy-sandbox-attestations.dat
+pasta/sessao/PrivacySandboxAttestationsPreloaded/2023.11.15.0/_metadata/verified_contents.json
+pasta/sessao/SafetyTips/3004/manifest.fingerprint
+pasta/sessao/SafetyTips/3004/manifest.json
+pasta/sessao/SafetyTips/3004/safety_tips.pb
+pasta/sessao/SafetyTips/3004/_metadata/verified_contents.json
+pasta/sessao/segmentation_platform/ukm_db
+pasta/sessao/segmentation_platform/ukm_db-journal
+pasta/sessao/ShaderCache/data_0
+pasta/sessao/ShaderCache/data_1
+pasta/sessao/ShaderCache/data_2
+pasta/sessao/ShaderCache/data_3
+pasta/sessao/ShaderCache/index
+pasta/sessao/SSLErrorAssistant/7/manifest.fingerprint
+pasta/sessao/SSLErrorAssistant/7/manifest.json
+pasta/sessao/SSLErrorAssistant/7/ssl_error_assistant.pb
+pasta/sessao/SSLErrorAssistant/7/_metadata/verified_contents.json
+pasta/sessao/Subresource Filter/Indexed Rules/36/9.49.1/Ruleset Data
+pasta/sessao/Subresource Filter/Unindexed Rules/9.49.1/Filtering Rules
+pasta/sessao/Subresource Filter/Unindexed Rules/9.49.1/LICENSE.txt
+pasta/sessao/Subresource Filter/Unindexed Rules/9.49.1/manifest.fingerprint
+pasta/sessao/Subresource Filter/Unindexed Rules/9.49.1/manifest.json
+pasta/sessao/Subresource Filter/Unindexed Rules/9.49.1/_metadata/verified_contents.json
+pasta/sessao/ThirdPartyModuleList64/2018.8.8.0/manifest.fingerprint
+pasta/sessao/ThirdPartyModuleList64/2018.8.8.0/manifest.json
+pasta/sessao/ThirdPartyModuleList64/2018.8.8.0/module_list_proto
+pasta/sessao/ThirdPartyModuleList64/2018.8.8.0/_metadata/verified_contents.json
+pasta/sessao/TpcdMetadata/2023.11.10.3/manifest.fingerprint
+pasta/sessao/TpcdMetadata/2023.11.10.3/manifest.json
+pasta/sessao/TpcdMetadata/2023.11.10.3/metadata.pb
+pasta/sessao/TpcdMetadata/2023.11.10.3/_metadata/verified_contents.json
+pasta/sessao/TrustTokenKeyCommitments/2023.9.4.1/keys.json
+pasta/sessao/TrustTokenKeyCommitments/2023.9.4.1/LICENSE
+pasta/sessao/TrustTokenKeyCommitments/2023.9.4.1/manifest.fingerprint
+pasta/sessao/TrustTokenKeyCommitments/2023.9.4.1/manifest.json
+pasta/sessao/TrustTokenKeyCommitments/2023.9.4.1/_metadata/verified_contents.json
+pasta/sessao/ZxcvbnData/3/english_wikipedia.txt
+pasta/sessao/ZxcvbnData/3/female_names.txt
+pasta/sessao/ZxcvbnData/3/male_names.txt
+pasta/sessao/ZxcvbnData/3/manifest.fingerprint
+pasta/sessao/ZxcvbnData/3/manifest.json
+pasta/sessao/ZxcvbnData/3/passwords.txt
+pasta/sessao/ZxcvbnData/3/ranked_dicts
+pasta/sessao/ZxcvbnData/3/surnames.txt
+pasta/sessao/ZxcvbnData/3/us_tv_and_film.txt
+pasta/sessao/ZxcvbnData/3/_metadata/verified_contents.json
