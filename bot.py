@@ -31,6 +31,7 @@ time.sleep(10)
 
 def bot():
     try:
+        #CAPTURAR NOTIFCAÇÃO
         notificacao = driver.find_element(By.CLASS_NAME,'aumms1qt')
         notificacao = driver.find_elements(By.CLASS_NAME,'aumms1qt')
         clica_notificacao = notificacao[-1]
@@ -40,9 +41,15 @@ def bot():
         acao_notificacao.perform()
         acao_notificacao.click()
         acao_notificacao.perform()
-        #l7jjieqr cfzgl7ar ei5e7seu h0viaqh7 tpmajp1w c0uhu3dl riy2oczp dsh4tgtl sy6s5v3r gz7w46tb lyutrhe2 qfejxiq4 fewfhwl7 ovhn1urg ap18qm3b ikwl5qvt j90th5db aumms1qt    
+        time.sleep(1)
+        #CAPTURAR TELEFONE
+        telefone_cliente = driver.find_element(By.XPATH, '//*[@id="main"]/header/div[2]/div/div/div/span')
+        telefone_final = telefone_cliente.text
+        print (telefone_final)
+
     except:
-        print('Olá')        
+        print('Olá')
+        time.sleep(4)
 
 while True:
     bot()
