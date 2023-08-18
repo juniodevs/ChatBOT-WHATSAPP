@@ -42,13 +42,21 @@ def bot():
         acao_notificacao.click()
         acao_notificacao.perform()
         time.sleep(1)
+
         #CAPTURAR TELEFONE
         telefone_cliente = driver.find_element(By.XPATH, '//*[@id="main"]/header/div[2]/div/div/div/span')
         telefone_final = telefone_cliente.text
         print (telefone_final)
+        time.sleep(2)
+
+        #PEGAR A MENSAGEM DO CLIENTE
+        todas_as_mensagens = driver.find_elements(By.CLASS_NAME,'_21Ahp')
+        todas_as_msg_texto = [e.text for e in todas_as_mensagens]
+        msg = todas_as_msg_texto[-1]
+        print(msg)
+
 
     except:
-        print('Olá')
         time.sleep(4)
 
 while True:
