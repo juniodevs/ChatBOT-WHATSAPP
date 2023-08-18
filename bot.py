@@ -6,20 +6,6 @@ import os
 import time
 import requests
 
-# #API 
-# agent = {"User-Agent": 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36'}
-
-# #CHAVE    xgLNUFtZsAbhZZaxkRh5ofM6Z0YIXwwv
-# api = requests.get("https://editacodigo.com.br/index/api-whatsapp/xgLNUFtZsAbhZZaxkRh5ofM6Z0YIXwwv" ,  headers=agent)
-# time.sleep(1)
-# api = api.text
-# api = api.split(".n.")
-# bolinha_notificacao = api[3].strip()
-# contato_cliente = api[4].strip()
-# caixa_msg = api[5].strip()
-# msg_cliente = api[6].strip()
-# caixa_msg2 = api[7].strip()
-# caixa_pesquisa = api[8].strip()
 
 
 dir_path = os.getcwd()
@@ -54,6 +40,18 @@ def bot():
         todas_as_msg_texto = [e.text for e in todas_as_mensagens]
         msg = todas_as_msg_texto[-1]
         print(msg)
+        time.sleep(5)
+
+        #RESPONODENDO CLIENTE
+        campo_de_texto = driver.find_element(By.XPATH, '//*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[1]/div/div[1]/p')
+        campo_de_texto.click()
+        time.sleep(1)
+        #campo_de_texto.send_keys('Olá', Keys.ENTER)
+
+
+        #FECHAR CONTATO
+        #webdriver.ActionChains(driver).send_keys(Keys.ESCAPE).perform()
+        #time.sleep(2)
 
 
     except:
