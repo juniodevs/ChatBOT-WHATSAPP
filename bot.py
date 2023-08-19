@@ -50,8 +50,8 @@ def bot():
 
 
         #FECHAR CONTATO
-        #webdriver.ActionChains(driver).send_keys(Keys.ESCAPE).perform()
-        #time.sleep(2)
+        webdriver.ActionChains(driver).send_keys(Keys.ESCAPE).perform()
+        time.sleep(2)
 
 
     except:
